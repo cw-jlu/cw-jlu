@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=200&section=header&text=CW-JLU&fontSize=70&fontColor=00ff41&animation=fade" alt="Header">
+  <!-- 替换为国内更稳镜像，保留样式 -->
+  <img src="https://raw.githubusercontent.com/kyazdani42/nvim-web-devicons/master/readme/capsule.svg" alt="CW-JLU" width="800" height="200" style="background:#050505;">
+  <h1 align="center" style="color:#00ff41;margin-top:-120px;">CW-JLU</h1>
 </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2200&pause=1000&color=00ff41&background=00000000&width=520&lines=吉林大学 · 人工智能方向;后端开发 & AI Agent 研发;深耕智能体与工程实践;持续编码 不断探索" alt="Typing SVG">
+<!-- 改用备用镜像，移除高风险heroku/demolab -->
+<img src="https://svg-readme.vercel.app/api/typing?font=Share+Tech+Mono&size=24&duration=2200&pause=1000&color=00ff41&background=transparent&width=520&lines=吉林大学 · 人工智能方向;后端开发 & AI Agent 研发;深耕智能体与工程实践;持续编码 不断探索" alt="Typing Text">
 </div>
 
 <p align="center">
