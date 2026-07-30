@@ -20,7 +20,7 @@
   Python · Java · C++ · Go · LaTeX
   <br><br>
   <strong>后端 & 框架 / Backend & Frameworks</strong><br>
-  Gin · Spring 生态 · Qt6 · Maven
+  FastAPI · Spring 生态 · Qt · Maven
   <br><br>
   <strong>AI 智能体 / AI Agent</strong><br>
   Self-evolution · Multi-Agent · Harness 
@@ -40,6 +40,6 @@
 熟练掌握 Java 后端技术栈、数据库与容器化部署，同时深耕Self-evolution，Multi-Agent，Harness等领域，兼顾工程落地与算法实践，持续探索 AI 与后端结合的技术方向。
 <br><br>
 <b>English</b><br>
-A student majoring in Artificial Intelligence at Jilin University. Focus on backend development and AI Agent research. Proficient in Java backend, databases and DevOps technologies. Dive into LangGraph, multi-agent systems and reinforcement learning, committed to combining AI algorithms with engineering practices.
+A student majoring in Artificial Intelligence at Jilin University. Focus on backend development and AI Agent research. Proficient in Java backend, databases and DevOps technologies. Dive into Self-evolution，Multi-Agent and Harness, committed to combining AI algorithms with engineering practices.
 </p>
 </details>
