@@ -23,10 +23,10 @@
   Gin · Spring 生态 · Qt6 · Maven
   <br><br>
   <strong>AI 智能体 / AI Agent</strong><br>
-  LangGraph · 多智能体系统 · 强化学习
+  Self-evolution · Multi-Agent · Harness 
   <br><br>
   <strong>中间件 & 运维 / Middleware & DevOps</strong><br>
-  MySQL · Redis · Docker · Linux · Hadoop · HBase · Git
+  MySQL · Redis · Docker · Linux · K8S · Git
 </p>
 </details>
 
@@ -37,7 +37,7 @@
 <p align="center">
 <b>中文</b><br>
 吉林大学人工智能方向在读，主攻<strong>后端开发 + AI Agent 智能体研发</strong>。
-熟练掌握 Java 后端技术栈、数据库与容器化部署，同时深耕 LangGraph、多智能体、强化学习等领域，兼顾工程落地与算法实践，持续探索 AI 与后端结合的技术方向。
+熟练掌握 Java 后端技术栈、数据库与容器化部署，同时深耕Self-evolution，Multi-Agent，Harness等领域，兼顾工程落地与算法实践，持续探索 AI 与后端结合的技术方向。
 <br><br>
 <b>English</b><br>
 A student majoring in Artificial Intelligence at Jilin University. Focus on backend development and AI Agent research. Proficient in Java backend, databases and DevOps technologies. Dive into LangGraph, multi-agent systems and reinforcement learning, committed to combining AI algorithms with engineering practices.
